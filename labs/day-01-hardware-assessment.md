@@ -32,7 +32,8 @@ Learn how to identify hardware specifications and use built-in Windows tools to 
 | Installed RAM |    32.0 GB   |
 | BIOS Version  |   Dell Inc. 1.6.5, 12/26/2019   |
 
-**Screenshot:** `images/day-01/msinfo32.png`
+**Screenshot:** 
+![System Information](../images/day-01/msinfo32.png)
 
 ---
 
