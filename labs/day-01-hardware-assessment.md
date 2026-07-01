@@ -52,7 +52,8 @@ Learn how to identify hardware specifications and use built-in Windows tools to 
 | Disk      | SSD    |
 | GPU       |     1%        |
 
-**Screenshot:** `images/day-01/task-manager-performance.png`
+**Screenshot:** 
+![System Information](../images/day-01/task-manager-performance.png)
 
 ---
 
@@ -72,7 +73,8 @@ Learn how to identify hardware specifications and use built-in Windows tools to 
 ### Notes
 
 
-**Screenshot:** `images/day-01/device-manager.png`
+**Screenshot:**
+ ![System Information](../images/day-01/device-manager.png)
 
 ---
 

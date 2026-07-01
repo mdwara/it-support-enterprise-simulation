@@ -38,7 +38,7 @@ The objective of this lab was to become familiar with essential Windows administ
 
 ### Screenshot
 
-`images/day-02/services.png`
+![System Information](../images/day-02/services.png)
 
 ---
 
@@ -83,7 +83,7 @@ The Microsoft Wi-Fi Direct Virtual Adapter experienced a power transition failur
 
 ### Screenshot
 
-`images/day-02/event-viewer.png`
+![System Information](../images/day-02/event-viewer.png)
 
 ---
 
@@ -109,7 +109,7 @@ The Microsoft Wi-Fi Direct Virtual Adapter experienced a power transition failur
 
 ### Screenshot
 
-`images/day-02/startup-apps.png`
+![System Information](../images/day-02/startup-apps.png)
 
 ---
 
@@ -133,7 +133,7 @@ The Microsoft Wi-Fi Direct Virtual Adapter experienced a power transition failur
 
 ### Screenshot
 
-`images/day-02/msconfig.png`
+`![System Information](../images/day-02/msconfig.png)
 
 ---
 
@@ -158,8 +158,9 @@ The Microsoft Wi-Fi Direct Virtual Adapter experienced a power transition failur
 
 ### Screenshots
 
-- `images/day-02/computer-management.png`
-- `images/day-02/disk-management.png`
+![System Information](../images/day-02/computer-management.png)
+
+![System Information](../images/day-02/disk-management.png)
 
 ---
 
